@@ -1,4 +1,4 @@
-# Halo semua! 
+# HELLO ALL! 
 
 My name is **Alfan Indra Kusuma**, and the peoples call me
 **Alfan**. I am a college from Muhammadiyah University of
