@@ -7,7 +7,9 @@ Sidoarjo. I am 20 years old and I was born in Sidoarjo, May
 parents in Sidoarjo, East Java. I like to play a game when I
 have a free time. I have 2 siblings, their names are Aliya and
 Helga. My father is self-employed and My mother is Nurse.
-My Dream become a programmer.
+My Dream become a programmer. And then, I have a girlfriend and
+her name is Dea Syafrina Enanti. She is the one of my motivation
+on my life <3.
 
 <p align="left">
 <a href="https://github.com/alfan17">
